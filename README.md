@@ -64,8 +64,3 @@ Paigalda Selenium:
 
 ```bash
 py -m pip install selenium
-
-
-### Tegelik kuupäev millal tehtud
-
--2026 12 juuni.
